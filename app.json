@@ -1,6 +1,6 @@
 ﻿{
-    "name": "仓库名",
-    "description": "仓库名",
+    "name": "xraumt",
+    "description": "xraumt",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
